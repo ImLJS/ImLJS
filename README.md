@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Leone Jacob</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ImHunter_08) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pain0820) 
