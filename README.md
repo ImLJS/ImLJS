@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leone Jacob</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imljs&label=Profile%20views&color=0e75b6&style=flat" alt="imljs" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ImLJS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ImHunter_08) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pain0820) 
@@ -25,4 +25,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ImLJS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
